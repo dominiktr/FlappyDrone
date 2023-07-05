@@ -1,5 +1,5 @@
 # FlappyDrone
-Simple python game
+Simple python game, similar to the Flappy Bird, written with the PyGame library. It has diverse, pleasant music and beautiful textures.
 
 How to install required python3 packages: <br>
 <code>
